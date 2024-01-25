@@ -1,5 +1,7 @@
 # RAG_with_Llama
-A simple demonstration of Retrieval Augmented Generation (RAG) pipeline constructed and evaluated using LlamaIndex.
+A simple demonstration of Retrieval Augmented Generation (RAG) pipeline constructed and evaluated using Llama2 models.
+
+The pipelines were constructed using both LlamaIndex and LangChain.
 
 
 # Motivations 
